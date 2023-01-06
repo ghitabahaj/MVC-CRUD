@@ -1,0 +1,11 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form-control:focus{
+    border-color: #b90000; 
+     box-shadow:none; 
+    -webkit-box-shadow: none;
+}
